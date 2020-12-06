@@ -3,7 +3,7 @@ train: ./data/custom/images/train
 val: ./data/custom/images/val
 
 # number of classes
-nc: 3
+nc: 2
 
 # class names
-names: ['apple_pie','baby_back_ribs','baklava']
+names: ['apple_pie','baby_back_ribs']
